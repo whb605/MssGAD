@@ -1,5 +1,5 @@
 # GLADD
-This is the code for paper "Graph-level Anomaly Detection by Distance From Random Sampling Graph".
+This is the code for paper "Multi-representations Space Separation based Graph-level Anomaly-aware Detection".
 
 ## Data Preparation
 
@@ -19,6 +19,16 @@ If you want to add the test set into the training set as well, append the parame
 
 ## Citation
 ```bibtex
-@inproceedings{
+@inproceedings{Lin_2023,
+   series={SSDBM 2023},
+   title={Multi-representations Space Separation based Graph-level Anomaly-aware Detection},
+   url={http://dx.doi.org/10.1145/3603719.3603739},
+   DOI={10.1145/3603719.3603739},
+   booktitle={35th International Conference on Scientific and Statistical Database Management},
+   publisher={ACM},
+   author={Lin, Fu and Gong, Haonan and Li, Mingkang and Wang, Zitong and Zhang, Yue and Luo, Xuexiong},
+   year={2023},
+   month=jul,
+   collection={SSDBM 2023}
 }
 ```
