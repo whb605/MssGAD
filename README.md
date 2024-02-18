@@ -1,4 +1,4 @@
-# GLADD
+# MssGAD
 This is the code for paper "Multi-representations Space Separation based Graph-level Anomaly-aware Detection".
 
 ## Data Preparation
